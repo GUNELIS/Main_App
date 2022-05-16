@@ -1,0 +1,22 @@
+height = 100
+width = 200
+numGuards = 1
+numIntruders = 1
+baseSpeedGuard = 5
+distanceViewing = 10
+numberMarkers = 5
+smellingDistance = 5
+spawnAreaGuards = 2 2 10 10
+spawnAreaIntruders = 180 2 195 10
+wall = 0 0 1 80
+wall = 0 79 120 80
+wall = 119 0 120 80
+wall = 0 0 120 1
+
+wall = 50 45 55 46
+wall = 60 45 65 46
+wall = 50 45 51 55
+wall = 65 45 66 55
+wall = 50 55 66 56
+wall = 50 45 66 46 
+targetArea = 53 50 55 52
